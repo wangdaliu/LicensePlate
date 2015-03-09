@@ -1,0 +1,2078 @@
+[
+    {
+        "brand": "冀A",
+        "location": "石家庄市",
+        "province": "河北省（冀）"
+    },
+    {
+        "brand": "冀B",
+        "location": "唐山市",
+        "province": "河北省（冀）"
+    },
+    {
+        "brand": "冀C",
+        "location": "秦皇岛市",
+        "province": "河北省（冀）"
+    },
+    {
+        "brand": "冀D",
+        "location": "邯郸市",
+        "province": "河北省（冀）"
+    },
+    {
+        "brand": "冀E",
+        "location": "邢台市",
+        "province": "河北省（冀）"
+    },
+    {
+        "brand": "冀F",
+        "location": "保定市",
+        "province": "河北省（冀）"
+    },
+    {
+        "brand": "冀G",
+        "location": "张家口市",
+        "province": "河北省（冀）"
+    },
+    {
+        "brand": "冀H",
+        "location": "承德市",
+        "province": "河北省（冀）"
+    },
+    {
+        "brand": "冀J",
+        "location": "沧州市",
+        "province": "河北省（冀）"
+    },
+    {
+        "brand": "冀R",
+        "location": "廊坊市",
+        "province": "河北省（冀）"
+    },
+    {
+        "brand": "冀T",
+        "location": "衡水市",
+        "province": "河北省（冀）"
+    },
+    {
+        "brand": "豫A",
+        "location": "郑州市",
+        "province": "河南省（豫）"
+    },
+    {
+        "brand": "豫B",
+        "location": "开封市",
+        "province": "河南省（豫）"
+    },
+    {
+        "brand": "豫A",
+        "location": "郑州市",
+        "province": "河南省（豫）"
+    },
+    {
+        "brand": "豫B",
+        "location": "开封市",
+        "province": "河南省（豫）"
+    },
+    {
+        "brand": "豫C",
+        "location": "洛阳市",
+        "province": "河南省（豫）"
+    },
+    {
+        "brand": "豫D",
+        "location": "平顶山市",
+        "province": "河南省（豫）"
+    },
+    {
+        "brand": "豫E",
+        "location": "安阳市",
+        "province": "河南省（豫）"
+    },
+    {
+        "brand": "豫F",
+        "location": "鹤壁市",
+        "province": "河南省（豫）"
+    },
+    {
+        "brand": "豫G",
+        "location": "新乡市",
+        "province": "河南省（豫）"
+    },
+    {
+        "brand": "豫H",
+        "location": "焦作市",
+        "province": "河南省（豫）"
+    },
+    {
+        "brand": "豫J",
+        "location": "濮阳市",
+        "province": "河南省（豫）"
+    },
+    {
+        "brand": "豫K",
+        "location": "许昌市",
+        "province": "河南省（豫）"
+    },
+    {
+        "brand": "豫L",
+        "location": "漯河市",
+        "province": "河南省（豫）"
+    },
+    {
+        "brand": "豫M",
+        "location": "三门峡市",
+        "province": "河南省（豫）"
+    },
+    {
+        "brand": "豫N",
+        "location": "商丘市",
+        "province": "河南省（豫）"
+    },
+    {
+        "brand": "豫P",
+        "location": "周口市",
+        "province": "河南省（豫）"
+    },
+    {
+        "brand": "豫Q",
+        "location": "驻马店市",
+        "province": "河南省（豫）"
+    },
+    {
+        "brand": "豫R",
+        "location": "南阳市",
+        "province": "河南省（豫）"
+    },
+    {
+        "brand": "豫S",
+        "location": "信阳市",
+        "province": "河南省（豫）"
+    },
+    {
+        "brand": "豫U",
+        "location": "济源市",
+        "province": "河南省（豫）"
+    },
+    {
+        "brand": "云A",
+        "location": "昆明市",
+        "province": "云南省（云）"
+    },
+    {
+        "brand": "云A-V",
+        "location": "昆明市东川区(原为云B)",
+        "province": "云南省（云）"
+    },
+    {
+        "brand": "云C",
+        "location": "昭通市",
+        "province": "云南省（云）"
+    },
+    {
+        "brand": "云D",
+        "location": "曲靖市",
+        "province": "云南省（云）"
+    },
+    {
+        "brand": "云E",
+        "location": "楚雄彝族自治州",
+        "province": "云南省（云）"
+    },
+    {
+        "brand": "云F",
+        "location": "玉溪市",
+        "province": "云南省（云）"
+    },
+    {
+        "brand": "云G",
+        "location": "红河哈尼族彝族自治州",
+        "province": "云南省（云）"
+    },
+    {
+        "brand": "云H",
+        "location": "文山壮族苗族自治州",
+        "province": "云南省（云）"
+    },
+    {
+        "brand": "云J",
+        "location": "普洱市",
+        "province": "云南省（云）"
+    },
+    {
+        "brand": "云K",
+        "location": "西双版纳傣族自治州",
+        "province": "云南省（云）"
+    },
+    {
+        "brand": "云L",
+        "location": "大理白族自治州",
+        "province": "云南省（云）"
+    },
+    {
+        "brand": "云M",
+        "location": "保山市",
+        "province": "云南省（云）"
+    },
+    {
+        "brand": "云N",
+        "location": "德宏傣族景颇族自治州",
+        "province": "云南省（云）"
+    },
+    {
+        "brand": "云P",
+        "location": "丽江市",
+        "province": "云南省（云）"
+    },
+    {
+        "brand": "云Q",
+        "location": "怒江僳僳族自治州",
+        "province": "云南省（云）"
+    },
+    {
+        "brand": "云R",
+        "location": "迪庆藏族自治州",
+        "province": "云南省（云）"
+    },
+    {
+        "brand": "云S",
+        "location": "临沧市",
+        "province": "云南省（云）"
+    },
+    {
+        "brand": "辽A",
+        "location": "沈阳市",
+        "province": "辽宁省（辽）"
+    },
+    {
+        "brand": "辽B",
+        "location": "大连市",
+        "province": "辽宁省（辽）"
+    },
+    {
+        "brand": "辽C",
+        "location": "鞍山市",
+        "province": "辽宁省（辽）"
+    },
+    {
+        "brand": "辽D",
+        "location": "抚顺市",
+        "province": "辽宁省（辽）"
+    },
+    {
+        "brand": "辽E",
+        "location": "本溪市",
+        "province": "辽宁省（辽）"
+    },
+    {
+        "brand": "辽F",
+        "location": "丹东市",
+        "province": "辽宁省（辽）"
+    },
+    {
+        "brand": "辽G",
+        "location": "锦州市",
+        "province": "辽宁省（辽）"
+    },
+    {
+        "brand": "辽H",
+        "location": "营口市",
+        "province": "辽宁省（辽）"
+    },
+    {
+        "brand": "辽J",
+        "location": "阜新市",
+        "province": "辽宁省（辽）"
+    },
+    {
+        "brand": "辽K",
+        "location": "辽阳市",
+        "province": "辽宁省（辽）"
+    },
+    {
+        "brand": "辽L",
+        "location": "盘锦市",
+        "province": "辽宁省（辽）"
+    },
+    {
+        "brand": "辽M",
+        "location": "铁岭市",
+        "province": "辽宁省（辽）"
+    },
+    {
+        "brand": "辽N",
+        "location": "朝阳市",
+        "province": "辽宁省（辽）"
+    },
+    {
+        "brand": "辽P",
+        "location": "葫芦岛市",
+        "province": "辽宁省（辽）"
+    },
+    {
+        "brand": "黑A",
+        "location": "哈尔滨市市八区",
+        "province": "黑龙江省（黑）"
+    },
+    {
+        "brand": "黑A",
+        "location": "哈尔滨市市八区",
+        "province": "黑龙江省（黑）"
+    },
+    {
+        "brand": "黑B",
+        "location": "齐齐哈尔市",
+        "province": "黑龙江省（黑）"
+    },
+    {
+        "brand": "黑C",
+        "location": "牡丹江市",
+        "province": "黑龙江省（黑）"
+    },
+    {
+        "brand": "黑D",
+        "location": "佳木斯市",
+        "province": "黑龙江省（黑）"
+    },
+    {
+        "brand": "黑E",
+        "location": "大庆市",
+        "province": "黑龙江省（黑）"
+    },
+    {
+        "brand": "黑F",
+        "location": "伊春市",
+        "province": "黑龙江省（黑）"
+    },
+    {
+        "brand": "黑G",
+        "location": "鸡西市",
+        "province": "黑龙江省（黑）"
+    },
+    {
+        "brand": "黑H",
+        "location": "鹤岗市",
+        "province": "黑龙江省（黑）"
+    },
+    {
+        "brand": "黑J",
+        "location": "双鸭山市",
+        "province": "黑龙江省（黑）"
+    },
+    {
+        "brand": "黑K",
+        "location": "七台河市",
+        "province": "黑龙江省（黑）"
+    },
+    {
+        "brand": "黑L",
+        "location": "哈尔滨市（除市八区）",
+        "province": "黑龙江省（黑）"
+    },
+    {
+        "brand": "黑M",
+        "location": "绥化市",
+        "province": "黑龙江省（黑）"
+    },
+    {
+        "brand": "黑N",
+        "location": "黑河市",
+        "province": "黑龙江省（黑）"
+    },
+    {
+        "brand": "黑P",
+        "location": "大兴安岭地区",
+        "province": "黑龙江省（黑）"
+    },
+    {
+        "brand": "黑R",
+        "location": "农垦系统",
+        "province": "黑龙江省（黑）"
+    },
+    {
+        "brand": "湘A",
+        "location": "长沙市",
+        "province": "湖南省（湘）"
+    },
+    {
+        "brand": "湘B",
+        "location": "株洲市",
+        "province": "湖南省（湘）"
+    },
+    {
+        "brand": "湘C",
+        "location": "湘潭市",
+        "province": "湖南省（湘）"
+    },
+    {
+        "brand": "湘D",
+        "location": "衡阳市",
+        "province": "湖南省（湘）"
+    },
+    {
+        "brand": "湘E",
+        "location": "邵阳市",
+        "province": "湖南省（湘）"
+    },
+    {
+        "brand": "湘F",
+        "location": "岳阳市",
+        "province": "湖南省（湘）"
+    },
+    {
+        "brand": "湘G",
+        "location": "张家界市",
+        "province": "湖南省（湘）"
+    },
+    {
+        "brand": "湘H",
+        "location": "益阳市",
+        "province": "湖南省（湘）"
+    },
+    {
+        "brand": "湘J",
+        "location": "常德市",
+        "province": "湖南省（湘）"
+    },
+    {
+        "brand": "湘K",
+        "location": "娄底市",
+        "province": "湖南省（湘）"
+    },
+    {
+        "brand": "湘L",
+        "location": "郴州市",
+        "province": "湖南省（湘）"
+    },
+    {
+        "brand": "湘M",
+        "location": "永州市",
+        "province": "湖南省（湘）"
+    },
+    {
+        "brand": "湘N",
+        "location": "怀化市",
+        "province": "湖南省（湘）"
+    },
+    {
+        "brand": "湘U",
+        "location": "湘西土家族苗族自治州",
+        "province": "湖南省（湘）"
+    },
+    {
+        "brand": "湘S",
+        "location": "省直系统",
+        "province": "湖南省（湘）"
+    },
+    {
+        "brand": "皖A",
+        "location": "合肥市",
+        "province": "安徽省（皖）"
+    },
+    {
+        "brand": "皖A",
+        "location": "合肥市",
+        "province": "安徽省（皖）"
+    },
+    {
+        "brand": "皖B",
+        "location": "芜湖市",
+        "province": "安徽省（皖）"
+    },
+    {
+        "brand": "皖C",
+        "location": "蚌埠市",
+        "province": "安徽省（皖）"
+    },
+    {
+        "brand": "皖D",
+        "location": "淮南市",
+        "province": "安徽省（皖）"
+    },
+    {
+        "brand": "皖E",
+        "location": "马鞍山市",
+        "province": "安徽省（皖）"
+    },
+    {
+        "brand": "皖F",
+        "location": "淮北市",
+        "province": "安徽省（皖）"
+    },
+    {
+        "brand": "皖G",
+        "location": "铜陵市",
+        "province": "安徽省（皖）"
+    },
+    {
+        "brand": "皖H",
+        "location": "安庆市",
+        "province": "安徽省（皖）"
+    },
+    {
+        "brand": "皖J",
+        "location": "黄山市",
+        "province": "安徽省（皖）"
+    },
+    {
+        "brand": "皖K",
+        "location": "阜阳市",
+        "province": "安徽省（皖）"
+    },
+    {
+        "brand": "皖L",
+        "location": "宿州市",
+        "province": "安徽省（皖）"
+    },
+    {
+        "brand": "皖M",
+        "location": "滁州市",
+        "province": "安徽省（皖）"
+    },
+    {
+        "brand": "皖N",
+        "location": "六安市",
+        "province": "安徽省（皖）"
+    },
+    {
+        "brand": "皖P",
+        "location": "宣城市",
+        "province": "安徽省（皖）"
+    },
+    {
+        "brand": "皖Q",
+        "location": "[原地级巢湖市](县级巢湖市新上牌为皖A)",
+        "province": "安徽省（皖）"
+    },
+    {
+        "brand": "皖R",
+        "location": "池州市",
+        "province": "安徽省（皖）"
+    },
+    {
+        "brand": "皖S",
+        "location": "亳州市",
+        "province": "安徽省（皖）"
+    },
+    {
+        "brand": "鲁A",
+        "location": "济南市",
+        "province": "山东省（鲁）"
+    },
+    {
+        "brand": "鲁B",
+        "location": "青岛市",
+        "province": "山东省（鲁）"
+    },
+    {
+        "brand": "鲁C",
+        "location": "淄博市",
+        "province": "山东省（鲁）"
+    },
+    {
+        "brand": "鲁D",
+        "location": "枣庄市",
+        "province": "山东省（鲁）"
+    },
+    {
+        "brand": "鲁E",
+        "location": "东营市",
+        "province": "山东省（鲁）"
+    },
+    {
+        "brand": "鲁F",
+        "location": "烟台市",
+        "province": "山东省（鲁）"
+    },
+    {
+        "brand": "鲁G",
+        "location": "潍坊市",
+        "province": "山东省（鲁）"
+    },
+    {
+        "brand": "鲁H",
+        "location": "济宁市",
+        "province": "山东省（鲁）"
+    },
+    {
+        "brand": "鲁J",
+        "location": "泰安市",
+        "province": "山东省（鲁）"
+    },
+    {
+        "brand": "鲁K",
+        "location": "威海市",
+        "province": "山东省（鲁）"
+    },
+    {
+        "brand": "鲁L",
+        "location": "日照市",
+        "province": "山东省（鲁）"
+    },
+    {
+        "brand": "鲁M",
+        "location": "滨州市",
+        "province": "山东省（鲁）"
+    },
+    {
+        "brand": "鲁N",
+        "location": "德州市",
+        "province": "山东省（鲁）"
+    },
+    {
+        "brand": "鲁P",
+        "location": "聊城市",
+        "province": "山东省（鲁）"
+    },
+    {
+        "brand": "鲁Q",
+        "location": "临沂市",
+        "province": "山东省（鲁）"
+    },
+    {
+        "brand": "鲁R",
+        "location": "菏泽市",
+        "province": "山东省（鲁）"
+    },
+    {
+        "brand": "鲁S",
+        "location": "莱芜市",
+        "province": "山东省（鲁）"
+    },
+    {
+        "brand": "鲁U",
+        "location": "青岛市增补",
+        "province": "山东省（鲁）"
+    },
+    {
+        "brand": "鲁V",
+        "location": "潍坊市增补",
+        "province": "山东省（鲁）"
+    },
+    {
+        "brand": "鲁W",
+        "location": "省直系统",
+        "province": "山东省（鲁）"
+    },
+    {
+        "brand": "鲁Y",
+        "location": "烟台市增补",
+        "province": "山东省（鲁）"
+    },
+    {
+        "brand": "新A",
+        "location": "乌鲁木齐市",
+        "province": "新疆维吾尔自治区（新）"
+    },
+    {
+        "brand": "新B",
+        "location": "昌吉回族自治州",
+        "province": "新疆维吾尔自治区（新）"
+    },
+    {
+        "brand": "新C",
+        "location": "石河子市",
+        "province": "新疆维吾尔自治区（新）"
+    },
+    {
+        "brand": "新D",
+        "location": "奎屯市",
+        "province": "新疆维吾尔自治区（新）"
+    },
+    {
+        "brand": "新E",
+        "location": "博尔塔拉蒙古自治州",
+        "province": "新疆维吾尔自治区（新）"
+    },
+    {
+        "brand": "新F",
+        "location": "伊犁哈萨克自治州直辖县市(除奎屯市)",
+        "province": "新疆维吾尔自治区（新）"
+    },
+    {
+        "brand": "新G",
+        "location": "塔城地区",
+        "province": "新疆维吾尔自治区（新）"
+    },
+    {
+        "brand": "新H",
+        "location": "阿勒泰地区",
+        "province": "新疆维吾尔自治区（新）"
+    },
+    {
+        "brand": "新J",
+        "location": "克拉玛依市",
+        "province": "新疆维吾尔自治区（新）"
+    },
+    {
+        "brand": "新K",
+        "location": "吐鲁番地区",
+        "province": "新疆维吾尔自治区（新）"
+    },
+    {
+        "brand": "新L",
+        "location": "哈密地区",
+        "province": "新疆维吾尔自治区（新）"
+    },
+    {
+        "brand": "新M",
+        "location": "巴音郭楞蒙古自治州",
+        "province": "新疆维吾尔自治区（新）"
+    },
+    {
+        "brand": "新N",
+        "location": "阿克苏地区",
+        "province": "新疆维吾尔自治区（新）"
+    },
+    {
+        "brand": "新P",
+        "location": "克孜勒苏柯尔克孜自治州",
+        "province": "新疆维吾尔自治区（新）"
+    },
+    {
+        "brand": "新Q",
+        "location": "喀什地区",
+        "province": "新疆维吾尔自治区（新）"
+    },
+    {
+        "brand": "新R",
+        "location": "和田地区",
+        "province": "新疆维吾尔自治区（新）"
+    },
+    {
+        "brand": "苏A",
+        "location": "南京市",
+        "province": "江苏省（苏）"
+    },
+    {
+        "brand": "苏B",
+        "location": "无锡市",
+        "province": "江苏省（苏）"
+    },
+    {
+        "brand": "苏C",
+        "location": "徐州市",
+        "province": "江苏省（苏）"
+    },
+    {
+        "brand": "苏D",
+        "location": "常州市",
+        "province": "江苏省（苏）"
+    },
+    {
+        "brand": "苏E",
+        "location": "苏州市",
+        "province": "江苏省（苏）"
+    },
+    {
+        "brand": "苏F",
+        "location": "南通市",
+        "province": "江苏省（苏）"
+    },
+    {
+        "brand": "苏G",
+        "location": "连云港市",
+        "province": "江苏省（苏）"
+    },
+    {
+        "brand": "苏H",
+        "location": "淮安市",
+        "province": "江苏省（苏）"
+    },
+    {
+        "brand": "苏J",
+        "location": "盐城市",
+        "province": "江苏省（苏）"
+    },
+    {
+        "brand": "苏K",
+        "location": "扬州市",
+        "province": "江苏省（苏）"
+    },
+    {
+        "brand": "苏K",
+        "location": "镇江市",
+        "province": "江苏省（苏）"
+    },
+    {
+        "brand": "苏M",
+        "location": "泰州市",
+        "province": "江苏省（苏）"
+    },
+    {
+        "brand": "苏N",
+        "location": "宿迁市",
+        "province": "江苏省（苏）"
+    },
+    {
+        "brand": "浙A",
+        "location": "杭州市",
+        "province": "浙江省（浙）"
+    },
+    {
+        "brand": "浙B",
+        "location": "宁波市",
+        "province": "浙江省（浙）"
+    },
+    {
+        "brand": "浙C",
+        "location": "温州市",
+        "province": "浙江省（浙）"
+    },
+    {
+        "brand": "浙D",
+        "location": "绍兴市",
+        "province": "浙江省（浙）"
+    },
+    {
+        "brand": "浙E",
+        "location": "湖州市",
+        "province": "浙江省（浙）"
+    },
+    {
+        "brand": "浙F",
+        "location": "嘉兴市",
+        "province": "浙江省（浙）"
+    },
+    {
+        "brand": "浙G",
+        "location": "金华市",
+        "province": "浙江省（浙）"
+    },
+    {
+        "brand": "浙H",
+        "location": "衢州市",
+        "province": "浙江省（浙）"
+    },
+    {
+        "brand": "浙J",
+        "location": "台州市",
+        "province": "浙江省（浙）"
+    },
+    {
+        "brand": "浙K",
+        "location": "丽水市",
+        "province": "浙江省（浙）"
+    },
+    {
+        "brand": "浙L",
+        "location": "舟山市",
+        "province": "浙江省（浙）"
+    },
+    {
+        "brand": "赣A",
+        "location": "南昌市",
+        "province": "江西省（赣）"
+    },
+    {
+        "brand": "赣B",
+        "location": "赣州市",
+        "province": "江西省（赣）"
+    },
+    {
+        "brand": "赣C",
+        "location": "宜春市",
+        "province": "江西省（赣）"
+    },
+    {
+        "brand": "赣D",
+        "location": "吉安市",
+        "province": "江西省（赣）"
+    },
+    {
+        "brand": "赣E",
+        "location": "上饶市",
+        "province": "江西省（赣）"
+    },
+    {
+        "brand": "赣F",
+        "location": "抚州市",
+        "province": "江西省（赣）"
+    },
+    {
+        "brand": "赣G",
+        "location": "九江市",
+        "province": "江西省（赣）"
+    },
+    {
+        "brand": "赣H",
+        "location": "景德镇市",
+        "province": "江西省（赣）"
+    },
+    {
+        "brand": "赣J",
+        "location": "萍乡市",
+        "province": "江西省（赣）"
+    },
+    {
+        "brand": "赣K",
+        "location": "新余市",
+        "province": "江西省（赣）"
+    },
+    {
+        "brand": "赣L",
+        "location": "鹰潭市",
+        "province": "江西省（赣）"
+    },
+    {
+        "brand": "赣M",
+        "location": "南昌市,省直系统",
+        "province": "江西省（赣）"
+    },
+    {
+        "brand": "鄂A",
+        "location": "武汉市",
+        "province": "湖北省（鄂）"
+    },
+    {
+        "brand": "鄂B",
+        "location": "黄石市",
+        "province": "湖北省（鄂）"
+    },
+    {
+        "brand": "鄂C",
+        "location": "十堰市",
+        "province": "湖北省（鄂）"
+    },
+    {
+        "brand": "鄂D",
+        "location": "荆州市",
+        "province": "湖北省（鄂）"
+    },
+    {
+        "brand": "鄂E",
+        "location": "宜昌市",
+        "province": "湖北省（鄂）"
+    },
+    {
+        "brand": "鄂F",
+        "location": "襄阳市",
+        "province": "湖北省（鄂）"
+    },
+    {
+        "brand": "鄂G",
+        "location": "鄂州市",
+        "province": "湖北省（鄂）"
+    },
+    {
+        "brand": "鄂H",
+        "location": "荆门市",
+        "province": "湖北省（鄂）"
+    },
+    {
+        "brand": "鄂J",
+        "location": "黄冈市",
+        "province": "湖北省（鄂）"
+    },
+    {
+        "brand": "鄂K",
+        "location": "孝感市",
+        "province": "湖北省（鄂）"
+    },
+    {
+        "brand": "鄂L",
+        "location": "咸宁市",
+        "province": "湖北省（鄂）"
+    },
+    {
+        "brand": "鄂M",
+        "location": "仙桃市",
+        "province": "湖北省（鄂）"
+    },
+    {
+        "brand": "鄂N",
+        "location": "潜江市",
+        "province": "湖北省（鄂）"
+    },
+    {
+        "brand": "鄂P",
+        "location": "神农架林区",
+        "province": "湖北省（鄂）"
+    },
+    {
+        "brand": "鄂Q",
+        "location": "恩施土家族苗族自治州",
+        "province": "湖北省（鄂）"
+    },
+    {
+        "brand": "鄂R",
+        "location": "天门市",
+        "province": "湖北省（鄂）"
+    },
+    {
+        "brand": "鄂S",
+        "location": "随州市",
+        "province": "湖北省（鄂）"
+    },
+    {
+        "brand": "桂A",
+        "location": "南宁市",
+        "province": "广西壮族自治区（桂）"
+    },
+    {
+        "brand": "桂B",
+        "location": "柳州市",
+        "province": "广西壮族自治区（桂）"
+    },
+    {
+        "brand": "桂C",
+        "location": "桂林市",
+        "province": "广西壮族自治区（桂）"
+    },
+    {
+        "brand": "桂D",
+        "location": "梧州市",
+        "province": "广西壮族自治区（桂）"
+    },
+    {
+        "brand": "桂E",
+        "location": "北海市",
+        "province": "广西壮族自治区（桂）"
+    },
+    {
+        "brand": "桂F",
+        "location": "崇左市",
+        "province": "广西壮族自治区（桂）"
+    },
+    {
+        "brand": "桂G",
+        "location": "来宾市",
+        "province": "广西壮族自治区（桂）"
+    },
+    {
+        "brand": "桂H",
+        "location": "桂林市下辖县（除阳朔）",
+        "province": "广西壮族自治区（桂）"
+    },
+    {
+        "brand": "桂J",
+        "location": "贺州市",
+        "province": "广西壮族自治区（桂）"
+    },
+    {
+        "brand": "桂K",
+        "location": "玉林市",
+        "province": "广西壮族自治区（桂）"
+    },
+    {
+        "brand": "桂L",
+        "location": "百色市",
+        "province": "广西壮族自治区（桂）"
+    },
+    {
+        "brand": "桂M",
+        "location": "河池市",
+        "province": "广西壮族自治区（桂）"
+    },
+    {
+        "brand": "桂N",
+        "location": "钦州市",
+        "province": "广西壮族自治区（桂）"
+    },
+    {
+        "brand": "桂P",
+        "location": "防城港市",
+        "province": "广西壮族自治区（桂）"
+    },
+    {
+        "brand": "桂R",
+        "location": "贵港市",
+        "province": "广西壮族自治区（桂）"
+    },
+    {
+        "brand": "甘A",
+        "location": "兰州市",
+        "province": "甘肃省（甘）"
+    },
+    {
+        "brand": "甘B",
+        "location": "嘉峪关市",
+        "province": "甘肃省（甘）"
+    },
+    {
+        "brand": "甘C",
+        "location": "金昌市",
+        "province": "甘肃省（甘）"
+    },
+    {
+        "brand": "甘D",
+        "location": "白银市",
+        "province": "甘肃省（甘）"
+    },
+    {
+        "brand": "甘E",
+        "location": "天水市",
+        "province": "甘肃省（甘）"
+    },
+    {
+        "brand": "甘F",
+        "location": "酒泉市",
+        "province": "甘肃省（甘）"
+    },
+    {
+        "brand": "甘G",
+        "location": "张掖市",
+        "province": "甘肃省（甘）"
+    },
+    {
+        "brand": "甘H",
+        "location": "武威市",
+        "province": "甘肃省（甘）"
+    },
+    {
+        "brand": "甘J",
+        "location": "定西市",
+        "province": "甘肃省（甘）"
+    },
+    {
+        "brand": "甘K",
+        "location": "陇南市",
+        "province": "甘肃省（甘）"
+    },
+    {
+        "brand": "甘L",
+        "location": "平凉市",
+        "province": "甘肃省（甘）"
+    },
+    {
+        "brand": "甘M",
+        "location": "庆阳市",
+        "province": "甘肃省（甘）"
+    },
+    {
+        "brand": "甘N",
+        "location": "临夏回族自治州",
+        "province": "甘肃省（甘）"
+    },
+    {
+        "brand": "甘P",
+        "location": "甘南藏族自治州",
+        "province": "甘肃省（甘）"
+    },
+    {
+        "brand": "晋A",
+        "location": "太原市",
+        "province": "山西省（晋）"
+    },
+    {
+        "brand": "晋B",
+        "location": "大同市",
+        "province": "山西省（晋）"
+    },
+    {
+        "brand": "晋C",
+        "location": "阳泉市",
+        "province": "山西省（晋）"
+    },
+    {
+        "brand": "晋D",
+        "location": "长治市",
+        "province": "山西省（晋）"
+    },
+    {
+        "brand": "晋E",
+        "location": "晋城市",
+        "province": "山西省（晋）"
+    },
+    {
+        "brand": "晋F",
+        "location": "朔州市",
+        "province": "山西省（晋）"
+    },
+    {
+        "brand": "晋H",
+        "location": "忻州市",
+        "province": "山西省（晋）"
+    },
+    {
+        "brand": "晋J",
+        "location": "吕梁市",
+        "province": "山西省（晋）"
+    },
+    {
+        "brand": "晋K",
+        "location": "晋中市",
+        "province": "山西省（晋）"
+    },
+    {
+        "brand": "晋L",
+        "location": "临汾市",
+        "province": "山西省（晋）"
+    },
+    {
+        "brand": "晋M",
+        "location": "运城市",
+        "province": "山西省（晋）"
+    },
+    {
+        "brand": "蒙A",
+        "location": "呼和浩特市",
+        "province": "内蒙古自治区（蒙）"
+    },
+    {
+        "brand": "蒙B",
+        "location": "包头市",
+        "province": "内蒙古自治区（蒙）"
+    },
+    {
+        "brand": "蒙C",
+        "location": "乌海市",
+        "province": "内蒙古自治区（蒙）"
+    },
+    {
+        "brand": "蒙D",
+        "location": "赤峰市",
+        "province": "内蒙古自治区（蒙）"
+    },
+    {
+        "brand": "蒙E",
+        "location": "呼伦贝尔市",
+        "province": "内蒙古自治区（蒙）"
+    },
+    {
+        "brand": "蒙F",
+        "location": "兴安盟",
+        "province": "内蒙古自治区（蒙）"
+    },
+    {
+        "brand": "蒙G",
+        "location": "通辽市",
+        "province": "内蒙古自治区（蒙）"
+    },
+    {
+        "brand": "蒙H",
+        "location": "锡林郭勒盟",
+        "province": "内蒙古自治区（蒙）"
+    },
+    {
+        "brand": "蒙J",
+        "location": "乌兰察布市",
+        "province": "内蒙古自治区（蒙）"
+    },
+    {
+        "brand": "蒙K",
+        "location": "鄂尔多斯市",
+        "province": "内蒙古自治区（蒙）"
+    },
+    {
+        "brand": "蒙L",
+        "location": "巴彦淖尔市",
+        "province": "内蒙古自治区（蒙）"
+    },
+    {
+        "brand": "蒙M",
+        "location": "阿拉善盟",
+        "province": "内蒙古自治区（蒙）"
+    },
+    {
+        "brand": "陕A",
+        "location": "西安市",
+        "province": "陕西省（陕）"
+    },
+    {
+        "brand": "陕B",
+        "location": "铜川市",
+        "province": "陕西省（陕）"
+    },
+    {
+        "brand": "陕C",
+        "location": "宝鸡市",
+        "province": "陕西省（陕）"
+    },
+    {
+        "brand": "陕D",
+        "location": "咸阳市",
+        "province": "陕西省（陕）"
+    },
+    {
+        "brand": "陕E",
+        "location": "渭南市",
+        "province": "陕西省（陕）"
+    },
+    {
+        "brand": "陕F",
+        "location": "汉中市",
+        "province": "陕西省（陕）"
+    },
+    {
+        "brand": "陕G",
+        "location": "安康市",
+        "province": "陕西省（陕）"
+    },
+    {
+        "brand": "陕H",
+        "location": "商洛市",
+        "province": "陕西省（陕）"
+    },
+    {
+        "brand": "陕J",
+        "location": "延安市",
+        "province": "陕西省（陕）"
+    },
+    {
+        "brand": "陕K",
+        "location": "榆林市",
+        "province": "陕西省（陕）"
+    },
+    {
+        "brand": "陕V",
+        "location": "杨凌高新农业示范区",
+        "province": "陕西省（陕）"
+    },
+    {
+        "brand": "吉A",
+        "location": "长春市",
+        "province": "吉林省（吉）"
+    },
+    {
+        "brand": "吉B",
+        "location": "吉林市",
+        "province": "吉林省（吉）"
+    },
+    {
+        "brand": "吉C",
+        "location": "四平市",
+        "province": "吉林省（吉）"
+    },
+    {
+        "brand": "吉D",
+        "location": "辽源市",
+        "province": "吉林省（吉）"
+    },
+    {
+        "brand": "吉E",
+        "location": "通化市",
+        "province": "吉林省（吉）"
+    },
+    {
+        "brand": "吉F",
+        "location": "白山市",
+        "province": "吉林省（吉）"
+    },
+    {
+        "brand": "吉G",
+        "location": "白城市",
+        "province": "吉林省（吉）"
+    },
+    {
+        "brand": "吉H",
+        "location": "延边朝鲜族自治州",
+        "province": "吉林省（吉）"
+    },
+    {
+        "brand": "吉J",
+        "location": "松原市",
+        "province": "吉林省（吉）"
+    },
+    {
+        "brand": "吉K",
+        "location": "长白山管委会",
+        "province": "吉林省（吉）"
+    },
+    {
+        "brand": "闽A",
+        "location": "福州市",
+        "province": "福建省（闽）"
+    },
+    {
+        "brand": "闽B",
+        "location": "莆田市",
+        "province": "福建省（闽）"
+    },
+    {
+        "brand": "闽C",
+        "location": "泉州市",
+        "province": "福建省（闽）"
+    },
+    {
+        "brand": "闽D",
+        "location": "厦门市",
+        "province": "福建省（闽）"
+    },
+    {
+        "brand": "闽E",
+        "location": "漳州市",
+        "province": "福建省（闽）"
+    },
+    {
+        "brand": "闽F",
+        "location": "龙岩市",
+        "province": "福建省（闽）"
+    },
+    {
+        "brand": "闽G",
+        "location": "三明市",
+        "province": "福建省（闽）"
+    },
+    {
+        "brand": "闽H",
+        "location": "南平市",
+        "province": "福建省（闽）"
+    },
+    {
+        "brand": "闽J",
+        "location": "宁德市",
+        "province": "福建省（闽）"
+    },
+    {
+        "brand": "闽K",
+        "location": "省直系统、平潭综合实验区",
+        "province": "福建省（闽）"
+    },
+    {
+        "brand": "贵A",
+        "location": "贵阳市",
+        "province": "贵州省（贵）"
+    },
+    {
+        "brand": "贵B",
+        "location": "六盘水市",
+        "province": "贵州省（贵）"
+    },
+    {
+        "brand": "贵C",
+        "location": "遵义市",
+        "province": "贵州省（贵）"
+    },
+    {
+        "brand": "贵D",
+        "location": "铜仁市",
+        "province": "贵州省（贵）"
+    },
+    {
+        "brand": "贵E",
+        "location": "黔西南布依族苗族自治州",
+        "province": "贵州省（贵）"
+    },
+    {
+        "brand": "贵F",
+        "location": "毕节市",
+        "province": "贵州省（贵）"
+    },
+    {
+        "brand": "贵G",
+        "location": "安顺市",
+        "province": "贵州省（贵）"
+    },
+    {
+        "brand": "贵H",
+        "location": "黔东南苗族侗族自治州",
+        "province": "贵州省（贵）"
+    },
+    {
+        "brand": "贵J",
+        "location": "黔南布依族苗族自治州",
+        "province": "贵州省（贵）"
+    },
+    {
+        "brand": "粤A",
+        "location": "广州市",
+        "province": "广东省（粤）"
+    },
+    {
+        "brand": "粤B",
+        "location": "深圳市",
+        "province": "广东省（粤）"
+    },
+    {
+        "brand": "粤C",
+        "location": "珠海市",
+        "province": "广东省（粤）"
+    },
+    {
+        "brand": "粤D",
+        "location": "汕头市",
+        "province": "广东省（粤）"
+    },
+    {
+        "brand": "粤E",
+        "location": "佛山市(除顺德、南海区)",
+        "province": "广东省（粤）"
+    },
+    {
+        "brand": "粤F",
+        "location": "韶关市",
+        "province": "广东省（粤）"
+    },
+    {
+        "brand": "粤G",
+        "location": "湛江市",
+        "province": "广东省（粤）"
+    },
+    {
+        "brand": "粤H",
+        "location": "肇庆市",
+        "province": "广东省（粤）"
+    },
+    {
+        "brand": "粤J",
+        "location": "江门市",
+        "province": "广东省（粤）"
+    },
+    {
+        "brand": "粤K",
+        "location": "茂名市",
+        "province": "广东省（粤）"
+    },
+    {
+        "brand": "粤L",
+        "location": "惠州市",
+        "province": "广东省（粤）"
+    },
+    {
+        "brand": "粤M",
+        "location": "梅州市",
+        "province": "广东省（粤）"
+    },
+    {
+        "brand": "粤N",
+        "location": "汕尾市",
+        "province": "广东省（粤）"
+    },
+    {
+        "brand": "粤P",
+        "location": "河源市",
+        "province": "广东省（粤）"
+    },
+    {
+        "brand": "粤Q",
+        "location": "阳江市",
+        "province": "广东省（粤）"
+    },
+    {
+        "brand": "粤R",
+        "location": "清远市",
+        "province": "广东省（粤）"
+    },
+    {
+        "brand": "粤S",
+        "location": "东莞市",
+        "province": "广东省（粤）"
+    },
+    {
+        "brand": "粤T",
+        "location": "中山市",
+        "province": "广东省（粤）"
+    },
+    {
+        "brand": "粤U",
+        "location": "潮州市",
+        "province": "广东省（粤）"
+    },
+    {
+        "brand": "粤V",
+        "location": "揭阳市",
+        "province": "广东省（粤）"
+    },
+    {
+        "brand": "粤W",
+        "location": "云浮市",
+        "province": "广东省（粤）"
+    },
+    {
+        "brand": "粤X",
+        "location": "佛山市顺德区",
+        "province": "广东省（粤）"
+    },
+    {
+        "brand": "粤Y",
+        "location": "佛山市南海区",
+        "province": "广东省（粤）"
+    },
+    {
+        "brand": "粤Z",
+        "location": "港澳进入内地车辆",
+        "province": "广东省（粤）"
+    },
+    {
+        "brand": "川A",
+        "location": "成都市",
+        "province": "四川省（川）"
+    },
+    {
+        "brand": "川B",
+        "location": "绵阳市",
+        "province": "四川省（川）"
+    },
+    {
+        "brand": "川C",
+        "location": "自贡市",
+        "province": "四川省（川）"
+    },
+    {
+        "brand": "川D",
+        "location": "攀枝花市",
+        "province": "四川省（川）"
+    },
+    {
+        "brand": "川E",
+        "location": "泸州市",
+        "province": "四川省（川）"
+    },
+    {
+        "brand": "川F",
+        "location": "德阳市",
+        "province": "四川省（川）"
+    },
+    {
+        "brand": "川H",
+        "location": "广元市",
+        "province": "四川省（川）"
+    },
+    {
+        "brand": "川J",
+        "location": "遂宁市",
+        "province": "四川省（川）"
+    },
+    {
+        "brand": "川K",
+        "location": "内江市",
+        "province": "四川省（川）"
+    },
+    {
+        "brand": "川L",
+        "location": "乐山市",
+        "province": "四川省（川）"
+    },
+    {
+        "brand": "川M",
+        "location": "资阳市",
+        "province": "四川省（川）"
+    },
+    {
+        "brand": "川Q",
+        "location": "宜宾市",
+        "province": "四川省（川）"
+    },
+    {
+        "brand": "川R",
+        "location": "南充市",
+        "province": "四川省（川）"
+    },
+    {
+        "brand": "川S",
+        "location": "达州市",
+        "province": "四川省（川）"
+    },
+    {
+        "brand": "川T",
+        "location": "雅安市",
+        "province": "四川省（川）"
+    },
+    {
+        "brand": "川U",
+        "location": "阿坝藏族羌族自治州",
+        "province": "四川省（川）"
+    },
+    {
+        "brand": "川V",
+        "location": "甘孜藏族自治州",
+        "province": "四川省（川）"
+    },
+    {
+        "brand": "川W",
+        "location": "凉山彝族自治州",
+        "province": "四川省（川）"
+    },
+    {
+        "brand": "川X",
+        "location": "广安市",
+        "province": "四川省（川）"
+    },
+    {
+        "brand": "川Y",
+        "location": "巴中市",
+        "province": "四川省（川）"
+    },
+    {
+        "brand": "川Z",
+        "location": "眉山市",
+        "province": "四川省（川）"
+    },
+    {
+        "brand": "青A",
+        "location": "西宁市",
+        "province": "青海省（青）"
+    },
+    {
+        "brand": "青B",
+        "location": "海东市",
+        "province": "青海省（青）"
+    },
+    {
+        "brand": "青C",
+        "location": "海北藏族自治州",
+        "province": "青海省（青）"
+    },
+    {
+        "brand": "青D",
+        "location": "黄南藏族自治州",
+        "province": "青海省（青）"
+    },
+    {
+        "brand": "青E",
+        "location": "海南藏族自治州",
+        "province": "青海省（青）"
+    },
+    {
+        "brand": "青F",
+        "location": "果洛藏族自治州",
+        "province": "青海省（青）"
+    },
+    {
+        "brand": "青G",
+        "location": "玉树藏族自治州",
+        "province": "青海省（青）"
+    },
+    {
+        "brand": "青H",
+        "location": "海西蒙古族藏族自治州",
+        "province": "青海省（青）"
+    },
+    {
+        "brand": "藏A",
+        "location": "拉萨市",
+        "province": "西藏自治区（藏）"
+    },
+    {
+        "brand": "藏B",
+        "location": "昌都市",
+        "province": "西藏自治区（藏）"
+    },
+    {
+        "brand": "藏C",
+        "location": "山南地区",
+        "province": "西藏自治区（藏）"
+    },
+    {
+        "brand": "藏D",
+        "location": "日喀则市",
+        "province": "西藏自治区（藏）"
+    },
+    {
+        "brand": "藏E",
+        "location": "那曲地区",
+        "province": "西藏自治区（藏）"
+    },
+    {
+        "brand": "藏F",
+        "location": "阿里地区",
+        "province": "西藏自治区（藏）"
+    },
+    {
+        "brand": "藏G",
+        "location": "林芝地区",
+        "province": "西藏自治区（藏）"
+    },
+    {
+        "brand": "藏H",
+        "location": "驻四川省天全县车辆管理所",
+        "province": "西藏自治区（藏）"
+    },
+    {
+        "brand": "藏J",
+        "location": "驻青海省格尔木市车辆管理所",
+        "province": "西藏自治区（藏）"
+    },
+    {
+        "brand": "琼A",
+        "location": "海口市",
+        "province": "海南省（琼）"
+    },
+    {
+        "brand": "琼B",
+        "location": "三亚市",
+        "province": "海南省（琼）"
+    },
+    {
+        "brand": "琼C",
+        "location": "儋州市、文昌市、琼海市、万宁市、澄迈县、临高县、定安县、屯昌县",
+        "province": "海南省（琼）"
+    },
+    {
+        "brand": "琼D",
+        "location": "五指山市，东方市，白沙县，陵水县，昌江市，保亭县，乐东县，琼中县",
+        "province": "海南省（琼）"
+    },
+    {
+        "brand": "琼E",
+        "location": "洋浦开发区",
+        "province": "海南省（琼）"
+    },
+    {
+        "brand": "宁A",
+        "location": "银川市",
+        "province": "宁夏回族自治区（宁）"
+    },
+    {
+        "brand": "宁B",
+        "location": "石嘴山市",
+        "province": "宁夏回族自治区（宁）"
+    },
+    {
+        "brand": "宁C",
+        "location": "吴忠市",
+        "province": "宁夏回族自治区（宁）"
+    },
+    {
+        "brand": "宁D",
+        "location": "固原市",
+        "province": "宁夏回族自治区（宁）"
+    },
+    {
+        "brand": "宁E",
+        "location": "中卫市",
+        "province": "宁夏回族自治区（宁）"
+    },
+    {
+        "brand": "渝A",
+        "location": "重庆市区（江北）",
+        "province": "重庆市（渝）"
+    },
+    {
+        "brand": "渝B",
+        "location": "重庆市区（江南）",
+        "province": "重庆市（渝）"
+    },
+    {
+        "brand": "渝C",
+        "location": "重庆近郊区县",
+        "province": "重庆市（渝）"
+    },
+    {
+        "brand": "渝F",
+        "location": "万州区及周边区县",
+        "province": "重庆市（渝）"
+    },
+    {
+        "brand": "渝G",
+        "location": "涪陵区及周边区县",
+        "province": "重庆市（渝）"
+    },
+    {
+        "brand": "渝H",
+        "location": "黔江区及周边区县",
+        "province": "重庆市（渝）"
+    },
+    {
+        "brand": "京A",
+        "location": "北京市",
+        "province": "北京市（京）"
+    },
+    {
+        "brand": "京B",
+        "location": "北京市出租汽车",
+        "province": "北京市（京）"
+    },
+    {
+        "brand": "京C",
+        "location": "北京市",
+        "province": "北京市（京）"
+    },
+    {
+        "brand": "京D",
+        "location": "暂未发放",
+        "province": "北京市（京）"
+    },
+    {
+        "brand": "京E",
+        "location": "北京市",
+        "province": "北京市（京）"
+    },
+    {
+        "brand": "京F",
+        "location": "北京市",
+        "province": "北京市（京）"
+    },
+    {
+        "brand": "京G",
+        "location": "北京市郊区县",
+        "province": "北京市（京）"
+    },
+    {
+        "brand": "京H",
+        "location": "北京市",
+        "province": "北京市（京）"
+    },
+    {
+        "brand": "京J",
+        "location": "北京市",
+        "province": "北京市（京）"
+    },
+    {
+        "brand": "京K",
+        "location": "北京市",
+        "province": "北京市（京）"
+    },
+    {
+        "brand": "京L",
+        "location": "北京市",
+        "province": "北京市（京）"
+    },
+    {
+        "brand": "京M",
+        "location": "北京市",
+        "province": "北京市（京）"
+    },
+    {
+        "brand": "京N",
+        "location": "北京市",
+        "province": "北京市（京）"
+    },
+    {
+        "brand": "京P",
+        "location": "北京市",
+        "province": "北京市（京）"
+    },
+    {
+        "brand": "京Q",
+        "location": "北京市",
+        "province": "北京市（京）"
+    },
+    {
+        "brand": "京Y",
+        "location": "北京市郊区县",
+        "province": "北京市（京）"
+    },
+    {
+        "brand": "津A",
+        "location": "天津市",
+        "province": "天津市（津）"
+    },
+    {
+        "brand": "津B",
+        "location": "天津市",
+        "province": "天津市（津）"
+    },
+    {
+        "brand": "津C",
+        "location": "天津市",
+        "province": "天津市（津）"
+    },
+    {
+        "brand": "津D",
+        "location": "天津市",
+        "province": "天津市（津）"
+    },
+    {
+        "brand": "津E",
+        "location": "天津市出租汽车",
+        "province": "天津市（津）"
+    },
+    {
+        "brand": "津F",
+        "location": "天津市",
+        "province": "天津市（津）"
+    },
+    {
+        "brand": "津G",
+        "location": "天津市",
+        "province": "天津市（津）"
+    },
+    {
+        "brand": "津H",
+        "location": "天津市",
+        "province": "天津市（津）"
+    },
+    {
+        "brand": "津J",
+        "location": "天津市",
+        "province": "天津市（津）"
+    },
+    {
+        "brand": "津K",
+        "location": "天津市",
+        "province": "天津市（津）"
+    },
+    {
+        "brand": "津L",
+        "location": "天津市",
+        "province": "天津市（津）"
+    },
+    {
+        "brand": "津M",
+        "location": "天津市",
+        "province": "天津市（津）"
+    },
+    {
+        "brand": "津N",
+        "location": "天津市",
+        "province": "天津市（津）"
+    },
+    {
+        "brand": "津Q",
+        "location": "天津市",
+        "province": "天津市（津）"
+    },
+    {
+        "brand": "沪A",
+        "location": "上海市",
+        "province": "上海市（沪）"
+    },
+    {
+        "brand": "沪B",
+        "location": "上海市",
+        "province": "上海市（沪）"
+    },
+    {
+        "brand": "沪C",
+        "location": "上海市(郊区牌照，不能进入以S20环线以内)",
+        "province": "上海市（沪）"
+    },
+    {
+        "brand": "沪D",
+        "location": "上海市",
+        "province": "上海市（沪）"
+    },
+    {
+        "brand": "沪E",
+        "location": "上海市",
+        "province": "上海市（沪）"
+    },
+    {
+        "brand": "沪F",
+        "location": "上海市",
+        "province": "上海市（沪）"
+    },
+    {
+        "brand": "沪G",
+        "location": "上海市",
+        "province": "上海市（沪）"
+    },
+    {
+        "brand": "沪H",
+        "location": "上海市",
+        "province": "上海市（沪）"
+    },
+    {
+        "brand": "沪J",
+        "location": "上海市",
+        "province": "上海市（沪）"
+    },
+    {
+        "brand": "沪K",
+        "location": "上海市",
+        "province": "上海市（沪）"
+    },
+    {
+        "brand": "沪L",
+        "location": "上海市",
+        "province": "上海市（沪）"
+    },
+    {
+        "brand": "沪M",
+        "location": "上海市",
+        "province": "上海市（沪）"
+    },
+    {
+        "brand": "沪N",
+        "location": "上海市",
+        "province": "上海市（沪）"
+    },
+    {
+        "brand": "沪R",
+        "location": "[原崇明、长兴、横沙专用车牌，不能驶出三岛]",
+        "province": "上海市（沪）"
+    }
+
+]
