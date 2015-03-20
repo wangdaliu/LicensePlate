@@ -2,9 +2,9 @@ package com.licenseplate.android.util;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
-import com.licenseplate.android.MyApplication;
+import com.licenseplate.android.Application;
+import com.licenseplate.android.R;
 import com.licenseplate.android.objects.Plate;
-import com.licenseplate.android.objects.Province;
 
 import java.io.ByteArrayOutputStream;
 import java.io.InputStream;
@@ -21,12 +21,16 @@ public class PlateUtil {
         return gson.fromJson(licence, type);
     }
 
-    public static List<Province> convertProvince() {
-        String city = readAssert("city.json");
-        Gson gson = new Gson();
-        Type type = new TypeToken<List<Province>>() {
-        }.getType();
-        return gson.fromJson(city, type);
+    public static String[] convertProvince() {
+        return Application.getInstance().getResources().getStringArray(R.array.province);
+    }
+
+    public static String[] convertProvinceSimple() {
+        return Application.getInstance().getResources().getStringArray(R.array.province_simple);
+    }
+
+    public static String[] convertLetter() {
+        return Application.getInstance().getResources().getStringArray(R.array.letter);
     }
 
     private static String readAssert(String fileName) {
@@ -34,7 +38,7 @@ public class PlateUtil {
         InputStream inputStream = null;
         ByteArrayOutputStream outputStream = null;
         try {
-            inputStream = MyApplication.getInstance().getAssets().open(fileName);
+            inputStream = Application.getInstance().getAssets().open(fileName);
             outputStream = new ByteArrayOutputStream();
             byte buf[] = new byte[1024];
             int len;

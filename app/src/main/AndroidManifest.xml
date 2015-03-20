@@ -3,9 +3,9 @@
           package="com.licenseplate.android">
 
     <application
-        android:name=".MyApplication"
+        android:name=".Application"
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme">
         <activity
@@ -18,7 +18,9 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".ui.ProvinceDetailActivity"></activity>
+        <activity android:name=".ui.home.ProvinceDetailActivity"></activity>
     </application>
+
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
 
 </manifest>

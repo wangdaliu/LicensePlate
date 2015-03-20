@@ -1,21 +1,19 @@
 package com.licenseplate.android;
 
-import android.app.Application;
-
 import com.licenseplate.android.objects.Plate;
 import com.licenseplate.android.util.PlateUtil;
 
 import java.util.List;
 
-public class MyApplication extends Application {
-    private static MyApplication instance;
+public class Application extends android.app.Application {
+    private static Application instance;
 
-    public static MyApplication getInstance() {
+    public static Application getInstance() {
         return instance;
     }
 
-    public MyApplication() {
-        MyApplication.instance = this;
+    public Application() {
+        Application.instance = this;
     }
 
     private List<Plate> mPlateList;

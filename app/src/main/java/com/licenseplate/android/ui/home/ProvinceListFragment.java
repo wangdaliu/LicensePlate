@@ -1,6 +1,5 @@
-package com.licenseplate.android.ui;
+package com.licenseplate.android.ui.home;
 
-import android.app.Fragment;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
@@ -13,17 +12,15 @@ import android.widget.ListView;
 import android.widget.TextView;
 
 import com.licenseplate.android.R;
-import com.licenseplate.android.objects.Province;
+import com.licenseplate.android.ui.BaseFragment;
 import com.licenseplate.android.util.PlateUtil;
 
-import java.util.ArrayList;
-import java.util.List;
 
-public class ProvinceListFragment extends Fragment implements AdapterView.OnItemClickListener {
+public class ProvinceListFragment extends BaseFragment implements AdapterView.OnItemClickListener {
 
     private ProvinceAdapter mProvinceAdapter;
 
-    private List<Province> mProvinceList = new ArrayList<Province>();
+    private String[] mProvinceList;
 
     private ListView mListView;
 
@@ -46,29 +43,29 @@ public class ProvinceListFragment extends Fragment implements AdapterView.OnItem
     @Override
     public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
         Intent intent = new Intent(getActivity(), ProvinceDetailActivity.class);
-        intent.putExtra("province", mProvinceList.get(position).getProvince());
+        intent.putExtra("province", mProvinceList[position]);
         startActivity(intent);
     }
 
     private class ProvinceAdapter extends BaseAdapter {
 
-        private List<Province> mProvinceList;
+        private String[] mProvinceList;
 
         private Context mContext;
 
-        private ProvinceAdapter(List<Province> provinceList, Context context) {
+        private ProvinceAdapter(String[] provinceList, Context context) {
             this.mProvinceList = provinceList;
             mContext = context;
         }
 
         @Override
         public int getCount() {
-            return mProvinceList.size();
+            return mProvinceList.length;
         }
 
         @Override
         public Object getItem(int position) {
-            return mProvinceList.get(position);
+            return mProvinceList[position];
         }
 
         @Override
@@ -89,7 +86,7 @@ public class ProvinceListFragment extends Fragment implements AdapterView.OnItem
                 holder = (ViewHolder) convertView.getTag();
             }
 
-            holder.tvProvince.setText(mProvinceList.get(position).getProvince());
+            holder.tvProvince.setText(mProvinceList[position]);
             return convertView;
         }
     }

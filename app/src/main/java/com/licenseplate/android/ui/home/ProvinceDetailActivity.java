@@ -1,8 +1,8 @@
-package com.licenseplate.android.ui;
+package com.licenseplate.android.ui.home;
 
 import android.content.Context;
 import android.os.Bundle;
-import android.util.Log;
+import android.support.v7.widget.Toolbar;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -10,9 +10,10 @@ import android.widget.BaseAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.licenseplate.android.MyApplication;
+import com.licenseplate.android.Application;
 import com.licenseplate.android.R;
 import com.licenseplate.android.objects.Plate;
+import com.licenseplate.android.ui.BaseActivity;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -31,6 +32,13 @@ public class ProvinceDetailActivity extends BaseActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.province_detail);
+
+        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        setSupportActionBar(toolbar);
+
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
         mProvince = getIntent().getStringExtra("province");
         mPlateList = filterPlate(mProvince);
         mPlateAdapter = new PlateAdapter(mPlateList, this);
@@ -40,7 +48,7 @@ public class ProvinceDetailActivity extends BaseActivity {
 
     private List<Plate> filterPlate(String province) {
         List<Plate> tempPlateList = new ArrayList<Plate>();
-        List<Plate> plates = MyApplication.getInstance().getPlateList();
+        List<Plate> plates = Application.getInstance().getPlateList();
         for (Plate plate : plates) {
             if (plate.getProvince().equals(province)) {
                 tempPlateList.add(plate);

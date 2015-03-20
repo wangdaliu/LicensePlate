@@ -1,7 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:font="http://schemas.android.com/apk/res-auto"
               android:orientation="vertical"
               android:layout_width="match_parent"
-              android:layout_height="match_parent">
+              android:layout_height="match_parent"
+              android:gravity="center_vertical">
+
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <com.licenseplate.android.ui.TypefacedTextView
+            android:id="@+id/province"
+            font:typeface="roboto_medium"
+            android:textColor="@color/black87"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textSize="30sp"
+            android:text="@string/select_province"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <com.licenseplate.android.ui.TypefacedTextView
+            android:layout_weight="1"
+            android:id="@+id/letter"
+            font:typeface="roboto_medium"
+            android:textColor="@color/black87"
+            android:gravity="center"
+            android:textSize="30sp"
+            android:text="@string/select_letter"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/black54"></View>
+
+
+    <com.licenseplate.android.ui.TypefacedTextView
+        android:layout_weight="1"
+        android:id="@+id/result"
+        font:typeface="roboto_medium"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:text="@string/default_result"
+        android:textColor="@color/black87"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
 
 </LinearLayout>

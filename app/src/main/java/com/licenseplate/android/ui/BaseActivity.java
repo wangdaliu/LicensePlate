@@ -1,6 +1,23 @@
 package com.licenseplate.android.ui;
 
-import android.support.v4.app.FragmentActivity;
+import android.support.v7.app.ActionBarActivity;
+import android.view.MenuItem;
 
-public class BaseActivity extends FragmentActivity {
+import com.licenseplate.android.R;
+
+public class BaseActivity extends ActionBarActivity {
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case android.R.id.home:
+                onBackPressed();
+                overridePendingTransition(R.anim.slide_left_in, R.anim.slide_left_out);
+                break;
+            default:
+                break;
+        }
+        return super.onOptionsItemSelected(item);
+    }
+
 }
