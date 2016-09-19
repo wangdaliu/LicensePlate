@@ -2,7 +2,6 @@
 <resources>
     <string-array name="menu">
         <item>Home</item>
-        <item>SourceCode</item>
         <item>About</item>
     </string-array>
 

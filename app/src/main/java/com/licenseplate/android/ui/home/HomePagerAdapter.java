@@ -4,11 +4,11 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.view.ViewGroup;
 
-import com.google.common.collect.ImmutableList;
 import com.licenseplate.android.Application;
 import com.licenseplate.android.R;
 import com.licenseplate.android.ui.BaseFragment;
 
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -20,10 +20,10 @@ public class HomePagerAdapter extends FragmentPagerAdapter {
 
     public HomePagerAdapter(Fragment fragment) {
         super(fragment.getChildFragmentManager());
-        mFragments = ImmutableList.of(
-                new CalculatePlateFragment(),
-                new ProvinceListFragment()
-        );
+        List<BaseFragment> fragments = new ArrayList<>();
+        fragments.add(new CalculatePlateFragment());
+        fragments.add(new ProvinceListFragment());
+        mFragments = fragments;
     }
 
     @Override

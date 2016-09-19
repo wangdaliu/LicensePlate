@@ -8,9 +8,8 @@
 
 
     <LinearLayout
-        android:layout_weight="1"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="100dp"
         android:orientation="horizontal">
 
         <com.licenseplate.android.ui.TypefacedTextView
@@ -19,7 +18,7 @@
             android:textColor="@color/black87"
             android:layout_weight="1"
             android:gravity="center"
-            android:textSize="30sp"
+            android:textSize="20sp"
             android:text="@string/select_province"
             android:layout_width="match_parent"
             android:layout_height="match_parent"/>
@@ -30,7 +29,7 @@
             font:typeface="roboto_medium"
             android:textColor="@color/black87"
             android:gravity="center"
-            android:textSize="30sp"
+            android:textSize="20sp"
             android:text="@string/select_letter"
             android:layout_width="match_parent"
             android:layout_height="match_parent"/>
@@ -47,10 +46,10 @@
         android:id="@+id/result"
         font:typeface="roboto_medium"
         android:gravity="center"
-        android:textSize="30sp"
+        android:textSize="20sp"
         android:text="@string/default_result"
         android:textColor="@color/black87"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
+        android:layout_height="wrap_content"/>
 
 </LinearLayout>

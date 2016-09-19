@@ -16,25 +16,25 @@ public class TypefacedTextView extends TextView {
         super(context, attrs);
 
         // Typeface.createFromAsset doesn't work in the layout editor. Skipping...
-        if (isInEditMode()) {
-            return;
-        }
-
-        TypedArray styledAttrs = context.obtainStyledAttributes(attrs, R.styleable.TypefacedTextView);
-        String fontName = styledAttrs.getString(R.styleable.TypefacedTextView_typeface);
-        styledAttrs.recycle();
-
-        if (fontName != null) {
-            // Potential exception on some devices here due to Android bug; catch and ignore,
-            // which will mean uglier font on a small number of devices, but no crashes
-            try {
-                Typeface typeface =
-                        Typeface.createFromAsset(context.getAssets(), "fonts/" + fontName + ".ttf");
-                setTypeface(typeface);
-            } catch (Exception e) {
-                Log.e(TAG, "couldn't load typeface " + fontName, e);
-            }
-        }
+//        if (isInEditMode()) {
+//            return;
+//        }
+//
+//        TypedArray styledAttrs = context.obtainStyledAttributes(attrs, R.styleable.TypefacedTextView);
+//        String fontName = styledAttrs.getString(R.styleable.TypefacedTextView_typeface);
+//        styledAttrs.recycle();
+//
+//        if (fontName != null) {
+//            // Potential exception on some devices here due to Android bug; catch and ignore,
+//            // which will mean uglier font on a small number of devices, but no crashes
+//            try {
+//                Typeface typeface =
+//                        Typeface.createFromAsset(context.getAssets(), "fonts/" + fontName + ".ttf");
+//                setTypeface(typeface);
+//            } catch (Exception e) {
+//                Log.e(TAG, "couldn't load typeface " + fontName, e);
+//            }
+//        }
     }
 
 }

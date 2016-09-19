@@ -36,10 +36,11 @@ public class ProvinceDetailActivity extends BaseActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
+        mProvince = getIntent().getStringExtra("province");
+        getSupportActionBar().setTitle(mProvince);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
-        mProvince = getIntent().getStringExtra("province");
         mPlateList = filterPlate(mProvince);
         mPlateAdapter = new PlateAdapter(mPlateList, this);
         mListView = (ListView) findViewById(R.id.plate_list);

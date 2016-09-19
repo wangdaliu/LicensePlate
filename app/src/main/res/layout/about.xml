@@ -32,34 +32,15 @@
         android:textColor="@color/black87"
         android:layout_marginTop="20dp"
         android:textSize="16sp"
-        android:text="个人信息"/>
+        android:text="版本号"/>
 
     <com.licenseplate.android.ui.TypefacedTextView
+        android:id="@+id/version"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         font:typeface="roboto_regular"
         android:textColor="@color/actionbar_color"
-        android:textSize="16sp"
-        android:autoLink="web"
-        android:text="https://github.com/wangdaliu"/>
+        android:textSize="16sp"/>
 
-
-    <com.licenseplate.android.ui.TypefacedTextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        font:typeface="roboto_regular"
-        android:textColor="@color/black87"
-        android:textSize="16sp"
-        android:layout_marginTop="20dp"
-        android:text="邮箱"/>
-
-    <com.licenseplate.android.ui.TypefacedTextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        font:typeface="roboto_regular"
-        android:textColor="@color/actionbar_color"
-        android:textSize="16sp"
-        android:autoLink="email"
-        android:text="liusuzheng2012@gmail.com"/>
 
 </LinearLayout>
